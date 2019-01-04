@@ -1,4 +1,4 @@
-**博客访问地址：[http://hoyouly.top](http://hoyouly.top)**。
+**博客访问地址：[ https://ouc-lk.github.io/blog/]( https://ouc-lk.github.io/blog/)**。
 
 以下内容是 [http://gaohaoyang.github.io/](http://gaohaoyang.github.io/) 的，是关于这个主题的一些介绍。只是把他的一些私人信息替换成了我自己的，
 
