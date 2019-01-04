@@ -1,4 +1,5 @@
 **博客访问地址：[ https://ouc-lk.github.io/blog/]( https://ouc-lk.github.io/blog/)**。
+若使用该博客，需要在设置中将仓库重命名为Ouc-Lk.github.io，以将博客修改为https://ouc-lk.github.io/
 
 以下内容是 [http://gaohaoyang.github.io/](http://gaohaoyang.github.io/) 的，是关于这个主题的一些介绍。只是把他的一些私人信息替换成了我自己的，
 
